@@ -3,12 +3,13 @@ Restaurant Review Sentiment Analysis
 
 GOAL:
 
-   
 Technologies: 
 
-    
+DATASET:
 
-Notebook
+https://www.kaggle.com/datasets/vigneshwarsofficial/reviews
+
+NOTEBOOK
 Link : https://github.com/pheonix2109/RestaurantReviewSentimentAnalysis/blob/main/RestaurantReviewSentimentAnalysis.ipynb
 
 TSV 
